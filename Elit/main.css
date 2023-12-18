@@ -106,8 +106,12 @@ h1{
  @media screen and (max-width:574px) { 
     .text2{width: 90%;
         font-size: 18px; 
-        margin-top: 400%;
         margin-left: 10%;
+    }  
+}
+
+@media screen and (max-width:574px) { 
+    .second{margin-top: 30%;
     }  
 }
 
