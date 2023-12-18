@@ -1,0 +1,303 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+body{
+background-color:white;
+font-family: 'Ysabeau Infant', sans-serif;
+}
+
+.first{
+    position: relative;
+    z-index: 1;
+}
+
+
+
+h1{
+    text-align: center;
+    
+    
+}
+
+.anna{
+    margin-top: -3.57%;
+    width: 38%;
+}
+
+@media screen and (max-width:574px) {
+    .anna{width: 49.5%;
+    margin-top: -2.7%;}
+    
+}
+
+.logo{
+    width: 10%;
+    padding-top: 2%;
+    opacity: 87%;
+}
+
+@media screen and (max-width:574px) {
+    .logo{width: 30%;}
+    
+}
+
+
+
+
+.fon{
+    background-color: #bfbfbf;
+    position: absolute;
+    width: 100%;
+    height: 850px;
+}
+
+@media screen and (max-width:574px) {
+    .fon{width: 100%; 
+        height: 50%;}
+    
+}
+
+.elit{
+    position: relative;
+    margin-top: -55%;
+    text-align: center;
+    font-size: 50px;
+    color:#B98500;
+    
+   
+}
+
+
+.img1{
+    padding-left: 10%;
+    margin-top: -5%;
+}
+
+ .text1{ 
+    font-size: 24px;
+    margin-top: -45%;
+    width: 40%;
+    margin-left: 53%;
+    
+}
+
+ @media screen and (max-width:574px) { 
+    .text1{margin-top: -63%;
+        width: 60%;
+        font-size: 17px; 
+        margin-left: 38%;
+    }  
+}
+
+
+.text2{ 
+    font-size: 24px;
+    margin-top: 42%;
+    width: 45%;
+    margin-left: 30%;
+}
+
+
+ @media screen and (max-width:574px) { 
+    .text2{width: 90%;
+        font-size: 18px; 
+        margin-top: 40%;
+        margin-left: 10%;
+    }  
+}
+
+
+
+.find{
+    margin-top: 250px;
+    font-size: 36px;
+    text-align: center;
+}
+
+@media screen and (max-width:574px) {
+    .find{font-size: 24px; 
+        margin-top: 150px;
+        margin-bottom: -200px;
+    }  
+}
+
+
+.roods1{
+    display: flex;
+    padding-top: 100px;
+    font-size: 36px;
+    justify-content: space-around;
+}
+
+@media screen and (max-width:574px) {
+    .roods1{font-size: 22px; 
+            margin-top: 200px;
+    }  
+}
+
+.gold{
+    color: #B98500;
+}
+
+.white-gold{
+    color: #8B8B8B;
+}
+
+.roods2{
+    margin-left: -2%;
+    display: flex;
+    margin-top: 120px;
+    font-size: 36px;
+    justify-content: space-around;
+}
+
+@media screen and (max-width:574px) {
+    .roods2{
+        font-size: 22px; 
+        margin-left: -17px;
+    }  
+}
+
+.serebro{
+    color: #6A6A6A;
+}
+
+.platina{
+    color: #AE7272;
+}
+
+.camni{
+    margin-top: 120px;
+    text-align: center;
+    font-size: 36px;
+}
+
+@media screen and (max-width:574px) {
+    .camni{
+        font-size: 22px; 
+        margin-bottom: -100px;
+       
+    }  
+}
+
+
+.gallery{
+    background-color:#bfbfbf;
+    padding-top: 5%;
+    padding-bottom: 8%;
+    margin-top: 30%;
+}
+
+@media screen and (max-width:574px) {
+    .gallery{ margin-bottom: -45%;
+        margin-top: 50%;
+
+    }  
+}
+
+.swiper{
+    width: 60%;
+    height: 60%;
+  }
+
+  @media screen and (max-width:574px) {
+    .swiper{ width: 100%;
+        height: 100%;
+    }  
+}
+ 
+
+  .swiper-wrapper{
+    padding-left: 25%;
+  }
+
+
+
+  .swiper-slide img {
+    display: block;
+    width: 45%;
+    height: 45%;
+    object-fit: cover;
+  }
+
+  .swiper-slide1 {
+    width: 50%;
+    height: 50%;
+  }
+
+
+
+
+.map-responsive iframe{
+    margin-top: -5%;
+}
+
+@media screen and (max-width: 574px) {
+    .map-responsive iframe{height: 250px;
+                            margin-top: -10px;
+    }
+    
+}
+
+.adress{
+    padding-top: 500px;
+}
+@media screen and (max-width:574px) {
+    .adress{
+        padding-top: 300px;
+    }
+        
+        
+    }  
+
+
+.adr{
+    font-size: 36px;
+}
+
+@media screen and (max-width:574px) {
+    .adr{font-size: 22px;
+        
+        
+    }  
+}
+
+
+
+.contacts{
+    margin-top: 10%;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.tel{
+    
+    font-size: 36px;
+}
+
+@media screen and (max-width:574px) {
+    .tel{font-size: 22px;
+        
+        
+        
+    }  
+}
+
+.elit-org{
+    margin-bottom: 2%;
+    text-align: center;
+    font-size: 20px;
+}
+
+@media screen and (max-width:574px) {
+    .elit-org{font-size: 16px; 
+            
+    }  
+}
