@@ -110,10 +110,7 @@ h1{
     }  
 }
 
-@media screen and (max-width:574px) { 
-    .text2{margin-top: 40%;
-    }  
-}
+
 
 
 
@@ -253,7 +250,7 @@ h1{
 }
 @media screen and (max-width:574px) {
     .adress{
-        padding-top: 30%;
+        padding-top: 45%;
     }
         
         
