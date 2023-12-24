@@ -111,7 +111,7 @@ h1{
 }
 
 @media screen and (max-width:574px) { 
-    .second{margin-top: 40%;
+    .text2{margin-top: 20%;
     }  
 }
 
@@ -265,7 +265,7 @@ h1{
 }
 
 @media screen and (max-width:574px) {
-    .adr{font-size: 22px;
+    .adr{font-size: 20px;
         
         
     }  
@@ -287,7 +287,7 @@ h1{
 }
 
 @media screen and (max-width:574px) {
-    .tel{font-size: 22px;
+    .tel{font-size: 20px;
         
         
         
