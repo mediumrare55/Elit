@@ -29,17 +29,13 @@ h1{
     width: 38%;
 }
 
-@media screen and (max-width:574px) {
+@media screen and (max-width:400px) {
     .anna{width: 49.5%;
     margin-top: -2.7%;}
     
 }
 
-@media screen and (width:768px) {
-    .anna{width: 50%;
-    margin-top: -2.7%;}
-    
-}
+
 
 .logo{
     width: 10%;
