@@ -29,7 +29,7 @@ h1{
     width: 38%;
 }
 
-@media screen and (max-width:200px) {
+@media screen and (max-width:2000px) {
     .anna{width: 49.5%;
     margin-top: -2.7%;}
     
