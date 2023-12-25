@@ -31,7 +31,7 @@ h1{
 
 @media screen and (max-width:574px) {
     .anna{width: 49.5%;
-    margin-top: -2.7%;}
+    margin-top: -2%;}
     
 }
 
@@ -250,7 +250,7 @@ h1{
 }
 @media screen and (max-width:574px) {
     .adress{
-        padding-top: 50%;
+        padding-top: 100%;
     }
         
         
