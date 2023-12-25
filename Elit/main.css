@@ -29,13 +29,13 @@ h1{
     width: 38%;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:200px) {
     .anna{width: 49.5%;
     margin-top: -2.7%;}
     
 }
 
-
+#men400
 
 .logo{
     width: 10%;
