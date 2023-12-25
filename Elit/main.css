@@ -30,10 +30,12 @@ h1{
 }
 
 @media screen and (max-width:574px) {
-    .anna{width: 49.5%;
-    margin-top: -2%;}
+    .anna{width: 51%;
+    margin-top: -2.7%;}
     
 }
+
+
 
 .logo{
     width: 10%;
@@ -250,7 +252,7 @@ h1{
 }
 @media screen and (max-width:574px) {
     .adress{
-        padding-top: 100%;
+        padding-top: 90%;
     }
         
         
