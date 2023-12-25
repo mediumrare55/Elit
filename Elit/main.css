@@ -35,7 +35,11 @@ h1{
     
 }
 
-
+@media screen and (width:1290) {
+    .anna{width: 50%;
+    margin-top: -2.7%;}
+    
+}
 
 .logo{
     width: 10%;
@@ -281,7 +285,7 @@ h1{
 }
 
 .tel{
-    
+    text-decoration: none;
     font-size: 36px;
 }
 
