@@ -35,7 +35,7 @@ h1{
     
 }
 
-@media screen and (width:1290) {
+@media screen and (width:768px) {
     .anna{width: 50%;
     margin-top: -2.7%;}
     
