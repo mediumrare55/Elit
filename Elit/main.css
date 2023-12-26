@@ -35,9 +35,9 @@ h1{
     
 }
 
-@media screen and (min-width:400px) {
+@media (min-width:400px) {
     .anna{width: 51%;
-    margin-top: -2.7%;}
+    margin-top: -4%;}
     
 }
 
