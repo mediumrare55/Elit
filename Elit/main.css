@@ -53,7 +53,7 @@ h1{
 }
 
 @media (min-width:400px) and (max-width:574px) {
-    .logo{width: 33;
+    .logo{width: 33%;
     
     }
     
