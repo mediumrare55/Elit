@@ -35,7 +35,7 @@ h1{
     
 }
 
-@media (min-width:390px) and (max-width:574px) {
+@media (min-width:370px) and (max-width:574px) {
     .anna{width: 50.5%;
     margin-top: -3.75%;}
     
