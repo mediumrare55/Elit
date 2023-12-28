@@ -41,17 +41,13 @@ h1{
     
 }
 
-@media (min-width:300px) and (max-width:400px) {
+@media (min-width:300px) and (max-width:399px) {
     .anna{width: 50.5%;
-    margin-top: -3.75%;}
+    margin-top: -3.5%;}
     
 }
 
-@media (min-width:300px) and (max-width:399px) {
-    .anna{width: 50.5%;
-    margin-top: -3.75%;}
-    
-}
+
 
 .logo{
     width: 10%;
