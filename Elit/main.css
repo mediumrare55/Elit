@@ -35,17 +35,13 @@ h1{
     
 }
 
-@media (min-width:400px) and (max-width:574px) {
+@media (min-width:428px) and (max-width:767px) {
     .anna{width: 50.5%;
     margin-top: -3.75%;}
     
 }
 
-@media (width: 428px) {
-    .anna{width: 50.5%;
-    margin-top: -3.5%;}
-    
-}
+
 
 
 
