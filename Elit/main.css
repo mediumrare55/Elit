@@ -22,9 +22,8 @@ h1{
     text-align: center;   
 }
 
-h2{
-    margin-top: -32px;
-    opacity: 0%;
+h1.second{
+    display: none;
 }
 
 .anna{
