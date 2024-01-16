@@ -17,13 +17,24 @@ font-family: 'Ysabeau Infant', sans-serif;
 }
 
 
-
-h1{
+.first-h{
     text-align: center;   
 }
 
-h1.second{
-    display: none;
+
+
+.second-h{
+    font-size: 24px;
+    font-weight: lighter;
+    margin-top: -45%;
+    margin-left: 53%;
+}
+@media (min-width:390px) and (max-width:767px) {
+    .second-h{margin-top: -63%;
+        font-weight: lighter;
+        font-size: 17px; 
+        margin-left: 38%;}
+    
 }
 
 .anna{
@@ -98,9 +109,9 @@ h1.second{
 
  .text1{ 
     font-size: 24px;
-    margin-top: -45%;
-    width: 40%;
+    padding-top: 1%;
     margin-left: 53%;
+    width: 30%;
     
 }
 
