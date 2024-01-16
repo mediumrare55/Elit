@@ -32,7 +32,7 @@ font-family: 'Ysabeau Infant', sans-serif;
 @media (min-width:390px) and (max-width:767px) {
     .second-h{margin-top: -63%;
         font-weight: lighter;
-        font-size: 17px; 
+        font-size: 20px; 
         margin-left: 38%;}
     
 }
@@ -116,7 +116,7 @@ font-family: 'Ysabeau Infant', sans-serif;
 }
 
  @media screen and (max-width:574px) { 
-    .text1{margin-top: -63%;
+    .text1{margin-top: -43%;
         width: 60%;
         font-size: 17px; 
         margin-left: 38%;
