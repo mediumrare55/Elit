@@ -116,7 +116,7 @@ font-family: 'Ysabeau Infant', sans-serif;
 }
 
  @media screen and (max-width:574px) { 
-    .text1{margin-top: -43%;
+    .text1{padding-top: 1%;
         width: 60%;
         font-size: 17px; 
         margin-left: 38%;
